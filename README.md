@@ -6,6 +6,8 @@ Hi! This project aims to make the Command Prompt of Windows a bit more useful. P
 
 After the download part only thing you have to do is run the "setup.bat" **as administrator**. After the installation you can delete the remaining files.
 
+You can also copy all the files in /commands folder to the System32 folder in case the setup doesn't work.
+
 ## Usage
 
 Currently there is only 4 commands available. Run the command "newhelp" on a terminal. It has all the necessary stuff you need to know.
